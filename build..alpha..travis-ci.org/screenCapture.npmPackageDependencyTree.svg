@@ -1,0 +1,57 @@
+<svg height="862" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="862" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ findup-sync@0.4.3 </tspan>
+<tspan x="10" y="90">  ├─┬ detect-file@0.1.0 </tspan>
+<tspan x="10" y="106">  │ └── fs-exists-sync@0.1.0 </tspan>
+<tspan x="10" y="122">  ├─┬ is-glob@2.0.1 </tspan>
+<tspan x="10" y="138">  │ └── is-extglob@1.0.0 </tspan>
+<tspan x="10" y="154">  ├─┬ micromatch@2.3.11 </tspan>
+<tspan x="10" y="170">  │ ├─┬ arr-diff@2.0.0 </tspan>
+<tspan x="10" y="186">  │ │ └── arr-flatten@1.0.3 </tspan>
+<tspan x="10" y="202">  │ ├── array-unique@0.2.1 </tspan>
+<tspan x="10" y="218">  │ ├─┬ braces@1.8.5 </tspan>
+<tspan x="10" y="234">  │ │ ├─┬ expand-range@1.8.2 </tspan>
+<tspan x="10" y="250">  │ │ │ └─┬ fill-range@2.2.3 </tspan>
+<tspan x="10" y="266">  │ │ │   ├── is-number@2.1.0 </tspan>
+<tspan x="10" y="282">  │ │ │   ├─┬ isobject@2.1.0 </tspan>
+<tspan x="10" y="298">  │ │ │   │ └── isarray@1.0.0 </tspan>
+<tspan x="10" y="314">  │ │ │   ├── randomatic@1.1.6 </tspan>
+<tspan x="10" y="330">  │ │ │   └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="346">  │ │ ├── preserve@0.2.0 </tspan>
+<tspan x="10" y="362">  │ │ └── repeat-element@1.1.2 </tspan>
+<tspan x="10" y="378">  │ ├─┬ expand-brackets@0.1.5 </tspan>
+<tspan x="10" y="394">  │ │ └── is-posix-bracket@0.1.1 </tspan>
+<tspan x="10" y="410">  │ ├── extglob@0.3.2 </tspan>
+<tspan x="10" y="426">  │ ├── filename-regex@2.0.0 </tspan>
+<tspan x="10" y="442">  │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="458">  │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="474">  │ ├─┬ normalize-path@2.1.1 </tspan>
+<tspan x="10" y="490">  │ │ └── remove-trailing-separator@1.0.1 </tspan>
+<tspan x="10" y="506">  │ ├─┬ object.omit@2.0.1 </tspan>
+<tspan x="10" y="522">  │ │ ├─┬ for-own@0.1.5 </tspan>
+<tspan x="10" y="538">  │ │ │ └── for-in@1.0.2 </tspan>
+<tspan x="10" y="554">  │ │ └── is-extendable@0.1.1 </tspan>
+<tspan x="10" y="570">  │ ├─┬ parse-glob@3.0.4 </tspan>
+<tspan x="10" y="586">  │ │ ├─┬ glob-base@0.3.0 </tspan>
+<tspan x="10" y="602">  │ │ │ └── glob-parent@2.0.0 </tspan>
+<tspan x="10" y="618">  │ │ └── is-dotfile@1.0.2 </tspan>
+<tspan x="10" y="634">  │ └─┬ regex-cache@0.4.3 </tspan>
+<tspan x="10" y="650">  │   ├── is-equal-shallow@0.1.3 </tspan>
+<tspan x="10" y="666">  │   └── is-primitive@2.0.0 </tspan>
+<tspan x="10" y="682">  └─┬ resolve-dir@0.1.1 </tspan>
+<tspan x="10" y="698">    ├─┬ expand-tilde@1.2.2 </tspan>
+<tspan x="10" y="714">    │ └── os-homedir@1.0.2 </tspan>
+<tspan x="10" y="730">    └─┬ global-modules@0.2.3 </tspan>
+<tspan x="10" y="746">      ├─┬ global-prefix@0.1.5 </tspan>
+<tspan x="10" y="762">      │ ├─┬ homedir-polyfill@1.0.1 </tspan>
+<tspan x="10" y="778">      │ │ └── parse-passwd@1.0.0 </tspan>
+<tspan x="10" y="794">      │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="810">      │ └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="826">      │   └── isexe@2.0.0 </tspan>
+<tspan x="10" y="842">      └── is-windows@0.2.0</tspan>
+</text>
+</svg>
