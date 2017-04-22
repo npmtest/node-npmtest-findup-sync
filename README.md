@@ -1,4 +1,7 @@
-# test coverage for  [findup-sync (v0.4.3)](https://github.com/cowboy/node-findup-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-findup-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findup-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findup-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-findup-sync)
+# npmtest-findup-sync
+
+#### basic test coverage for  [findup-sync (v1.0.0)](https://github.com/cowboy/node-findup-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-findup-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findup-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findup-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-findup-sync)
+
 #### Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
 
 [![NPM](https://nodei.co/npm/findup-sync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/findup-sync)
@@ -59,8 +62,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "40043929e7bc60adf0b7f4827c4c6e75a0deca12",
-        "tarball": "https://registry.npmjs.org/findup-sync/-/findup-sync-0.4.3.tgz"
+        "shasum": "6f7e4b57b6ee3a4037b4414eaedea3f58f71e0ec",
+        "tarball": "https://registry.npmjs.org/findup-sync/-/findup-sync-1.0.0.tgz"
     },
     "engines": {
         "node": ">= 0.8.0"
@@ -68,7 +71,7 @@
     "files": [
         "index.js"
     ],
-    "gitHead": "701fd1044e1e26936aa066a35281ffdfb0b37d43",
+    "gitHead": "c19ee365c78410950e5acff7608bd62290d2fb89",
     "homepage": "https://github.com/cowboy/node-findup-sync",
     "keywords": [
         "file",
@@ -106,7 +109,8 @@
     "scripts": {
         "test": "grunt && mocha"
     },
-    "version": "0.4.3"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
