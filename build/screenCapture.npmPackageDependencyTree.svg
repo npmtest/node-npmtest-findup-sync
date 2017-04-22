@@ -4,7 +4,7 @@
 <tspan x="10" y="26">2 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ findup-sync@0.4.3 </tspan>
+<tspan x="10" y="74">└─┬ findup-sync@1.0.0 </tspan>
 <tspan x="10" y="90">  ├─┬ detect-file@0.1.0 </tspan>
 <tspan x="10" y="106">  │ └── fs-exists-sync@0.1.0 </tspan>
 <tspan x="10" y="122">  ├─┬ is-glob@2.0.1 </tspan>
